@@ -49,7 +49,7 @@ body {
 .image-row{
   display: flex;
   gap: 16px;
-  justify-content: center;
+  justify-content: flex-start; 
   align-items: flex-start;
   flex-wrap: nowrap;
 }
@@ -60,6 +60,7 @@ body {
   height: auto;
   object-fit: cover;
 }
+
 
 
 
