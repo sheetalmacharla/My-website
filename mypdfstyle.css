@@ -44,6 +44,10 @@ a:hover{
         color: #ff0000;
         text-shadow: 1px 1px #ccc;
 }
+body {
+  background: white;
+}
+
 
 
 
