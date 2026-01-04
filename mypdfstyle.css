@@ -26,11 +26,8 @@ iframe {
         height: 90%;
 }
 
-div{
-        display: flex;
-        align-items:center;
-        justify-content:space-between;
-        height: 10%;
+div {
+    display: block;
 }
 
 a{
@@ -47,3 +44,4 @@ a:hover{
         color: #ff0000;
         text-shadow: 1px 1px #ccc;
 }
+
